@@ -1,4 +1,4 @@
-import About from "./Components/About/About";
+import Skills from "./Components/Skills/Skills";
 import Experience from "./Components/Experience/Experience";
 import Footer from "./Components/Footer/Footer";
 import Home from "./Components/Home/Home";
@@ -10,7 +10,7 @@ function App() {
     <div className="bg-[#171d32] h-auto w-full overflow-hidden">
       <Navbar />
       <Home />
-      <About />
+      <Skills />
       <Experience />
       <Projects />
       <Footer />
